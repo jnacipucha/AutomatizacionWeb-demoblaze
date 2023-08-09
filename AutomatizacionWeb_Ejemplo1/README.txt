@@ -30,4 +30,4 @@ Para ejecutar el proyecto es necesario tener instalado lo siguiente:
 
 ## Información adicional
 
-Repositorio Git: https://github.com/jnacipucha/AutomatizacionWeb_Ejercicio1.git
+Repositorio Git: https://github.com/jnacipucha/AutomatizacionWeb-demoblaze.git
