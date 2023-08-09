@@ -1,0 +1,5 @@
+Las pruebas se realizaron de forma exitosa, el tiempo de ejecución fue de 52.46s, de esta forma se optimiza el proceso de certificación
+de un software
+
+El reporte generado es amigable con el usuario, se generan estadísticas y gráficos para un mejor entendimiento, el proyecto se realizó en el lenguaje de programación
+JAVA con serenity, screenplay para la captura de pantallas y el modelo MVC para una mejor estructura del código
